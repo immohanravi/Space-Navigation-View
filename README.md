@@ -284,18 +284,6 @@ Add recycler view scroll behavior
 </android.support.design.widget.CoordinatorLayout>
 ```
 
-[10]: https://github.com/armcha/Space-Navigation-View/issues/16
-[11]: https://github.com/armcha/Space-Navigation-View/issues/18
-[12]: https://github.com/armcha/Space-Navigation-View/issues/17
-[13]: https://github.com/armcha/Space-Navigation-View/issues/25
-[14]: https://github.com/armcha/Space-Navigation-View/issues/29
-[16]: https://github.com/armcha/Space-Navigation-View/issues/34
-[17]: https://github.com/armcha/Space-Navigation-View/issues/32
-[20]: https://github.com/armcha/Space-Navigation-View/issues/41
-[15]: https://github.com/ankitpopli1891
-[18]: https://github.com/akiraspeirs
-[19]: https://github.com/nextdimension
-
 ##Versions
 
 ##1.6.0
@@ -342,26 +330,8 @@ Add recycler view scroll behavior
 ## 1.0.0
 * Initial release
 
-## Apps using the Space Navigation View
-* [Book Share - Share Ebooks and files](https://play.google.com/store/apps/details?id=com.rvnd.bookshare)
-* [WiFi FTP Server +File Transfer](https://play.google.com/store/apps/details?id=com.transfer.file)
 
-Kindly please let me know if you used or planning to use the library in your projects
 
-##Project development
-Some crazy [pics][8]
-[8]: https://github.com/armcha/Space-Navigation-View/tree/master/development
-
-## Contact 
-
-Pull requests are more than welcome.
-Please fell free to contact me if there is any problem when using the library.
-
-- **Email**: armcha01@gmail.com
-- **Facebook**: https://web.facebook.com/chatikyana
-- **Twitter**: https://twitter.com/ArmanChatikyan
-- **Google +**: https://plus.google.com/112011638040018774140
-- **Website**: https://armcha.github.io/
 
 License
 --------
