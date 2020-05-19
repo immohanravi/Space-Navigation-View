@@ -2,19 +2,19 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Space--Navigation--View-green.svg?style=true)](https://android-arsenal.com/details/1/4180)
 <a href='https://ko-fi.com/A654L70' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=f' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
 
+## Important
+This is fork of https://github.com/armcha/Space-Navigation-View just convetered to android x
+
 ## Introduction
 ------------
-Space Navigation is a library allowing easily integrate fully customizable Google [Spaces][1] like navigation to your app.
-[1]: https://play.google.com/store/apps/details?id=com.google.android.apps.social.spaces
+
 
 ![](screens/mainGif.gif)
 ![](screens/screen4.png)
 
 
-The current minSDK version is API level 14 Android 4.0 (ICE CREAM SANDWICH).
+The current minSDK version is API level 21.
 
-Download sample [apk][7]
-[7]: https://github.com/armcha/Space-Navigation-View/raw/master/SpaceNavigationView.apk
 
 # YouTube demos 
 
@@ -27,19 +27,6 @@ Download sample [apk][7]
 -----------------------
 
 
-Gradle:
-```groovy
-compile 'com.github.armcha:SpaceNavigationView:1.6.0'
-```
-Maven:
-```xml
-<dependency>
-  <groupId>com.github.armcha</groupId>
-  <artifactId>SpaceNavigationView</artifactId>
-  <version>1.6.0</version>
-  <type>pom</type>
-</dependency>
-```
 
 ## Setup and usage
 ------------------
